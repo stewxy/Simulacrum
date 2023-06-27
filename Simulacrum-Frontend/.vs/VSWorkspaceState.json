@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.storybook",
+    "\\public",
+    "\\src",
+    "\\src\\components"
+  ],
+  "PreviewInSolutionExplorer": false
+}

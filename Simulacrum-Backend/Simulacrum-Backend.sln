@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simulacrum.Api", "Simulacrum.Api\Simulacrum.Api.csproj", "{8B697951-7DBB-482F-932C-FEC322CAD2C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulacrum.Tests", "Simulacrum.Tests\Simulacrum.Tests.csproj", "{A54B0F0B-56F5-4CE7-8D7F-3F0FB7DEEE62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B697951-7DBB-482F-932C-FEC322CAD2C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B697951-7DBB-482F-932C-FEC322CAD2C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B697951-7DBB-482F-932C-FEC322CAD2C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B697951-7DBB-482F-932C-FEC322CAD2C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A54B0F0B-56F5-4CE7-8D7F-3F0FB7DEEE62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A54B0F0B-56F5-4CE7-8D7F-3F0FB7DEEE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A54B0F0B-56F5-4CE7-8D7F-3F0FB7DEEE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A54B0F0B-56F5-4CE7-8D7F-3F0FB7DEEE62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AA9022F-D1EC-4ACE-9588-478E22F43ADC}
+	EndGlobalSection
+EndGlobal
